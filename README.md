@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/PChaudhari007/Parth_DSA/tree/master/0069-sqrtx) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PChaudhari007/Parth_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
