@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PChaudhari007/Parth_DSA/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/PChaudhari007/Parth_DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PChaudhari007/Parth_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PChaudhari007/Parth_DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 ## Database
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/PChaudhari007/Parth_DSA/tree/master/0051-n-queens) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PChaudhari007/Parth_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
