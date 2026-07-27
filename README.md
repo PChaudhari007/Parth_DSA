@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/PChaudhari007/Parth_DSA/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/1148-article-views-i) |
 ## Math
 |  |
 | ------- |
