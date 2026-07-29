@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/PChaudhari007/Parth_DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PChaudhari007/Parth_DSA/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PChaudhari007/Parth_DSA/tree/master/0485-max-consecutive-ones) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PChaudhari007/Parth_DSA/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
