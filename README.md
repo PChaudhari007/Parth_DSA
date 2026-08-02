@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PChaudhari007/Parth_DSA/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
+| [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PChaudhari007/Parth_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PChaudhari007/Parth_DSA/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/PChaudhari007/Parth_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PChaudhari007/Parth_DSA/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PChaudhari007/Parth_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
