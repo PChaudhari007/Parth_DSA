@@ -104,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PChaudhari007/Parth_DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PChaudhari007/Parth_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
