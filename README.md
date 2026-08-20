@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PChaudhari007/Parth_DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/PChaudhari007/Parth_DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PChaudhari007/Parth_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/PChaudhari007/Parth_DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
