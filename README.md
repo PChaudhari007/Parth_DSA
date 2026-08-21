@@ -132,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PChaudhari007/Parth_DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/PChaudhari007/Parth_DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PChaudhari007/Parth_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/PChaudhari007/Parth_DSA/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/PChaudhari007/Parth_DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
