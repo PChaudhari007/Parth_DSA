@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/PChaudhari007/Parth_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PChaudhari007/Parth_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PChaudhari007/Parth_DSA/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PChaudhari007/Parth_DSA/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
