@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PChaudhari007/Parth_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0027-remove-element) |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/PChaudhari007/Parth_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PChaudhari007/Parth_DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PChaudhari007/Parth_DSA/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
