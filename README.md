@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/PChaudhari007/Parth_DSA/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/PChaudhari007/Parth_DSA/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/PChaudhari007/Parth_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/PChaudhari007/Parth_DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
