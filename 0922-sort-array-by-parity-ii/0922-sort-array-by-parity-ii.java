@@ -1,7 +1,7 @@
 class Solution {
     public int[] sortArrayByParityII(int[] nums) {
         int even = 0;
-        int odd = 1;
+        int odd = even + 1;
         int n = nums.length;
 
         while(even < n && odd < n){
