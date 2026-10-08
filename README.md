@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PChaudhari007/Parth_DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PChaudhari007/Parth_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PChaudhari007/Parth_DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PChaudhari007/Parth_DSA/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PChaudhari007/Parth_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PChaudhari007/Parth_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -274,4 +278,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PChaudhari007/Parth_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PChaudhari007/Parth_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
