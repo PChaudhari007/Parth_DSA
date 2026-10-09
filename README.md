@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PChaudhari007/Parth_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/PChaudhari007/Parth_DSA/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/PChaudhari007/Parth_DSA/tree/master/0905-sort-array-by-parity) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PChaudhari007/Parth_DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PChaudhari007/Parth_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
