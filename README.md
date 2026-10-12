@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/PChaudhari007/Parth_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PChaudhari007/Parth_DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PChaudhari007/Parth_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PChaudhari007/Parth_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
