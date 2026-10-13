@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0242-valid-anagram) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PChaudhari007/Parth_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PChaudhari007/Parth_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PChaudhari007/Parth_DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/PChaudhari007/Parth_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/PChaudhari007/Parth_DSA/tree/master/0877-stone-game) |
 ## Two Pointers
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PChaudhari007/Parth_DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PChaudhari007/Parth_DSA/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PChaudhari007/Parth_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -310,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
