@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/PChaudhari007/Parth_DSA/tree/master/0051-n-queens) |
+| [0784-letter-case-permutation](https://github.com/PChaudhari007/Parth_DSA/tree/master/0784-letter-case-permutation) |
 ## Greedy
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0136-single-number) |
+| [0784-letter-case-permutation](https://github.com/PChaudhari007/Parth_DSA/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/PChaudhari007/Parth_DSA/tree/master/0500-keyboard-row) |
+| [0784-letter-case-permutation](https://github.com/PChaudhari007/Parth_DSA/tree/master/0784-letter-case-permutation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PChaudhari007/Parth_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PChaudhari007/Parth_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Game Theory
