@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/PChaudhari007/Parth_DSA/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/PChaudhari007/Parth_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/PChaudhari007/Parth_DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/PChaudhari007/Parth_DSA/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PChaudhari007/Parth_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PChaudhari007/Parth_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PChaudhari007/Parth_DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/PChaudhari007/Parth_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/PChaudhari007/Parth_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PChaudhari007/Parth_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/PChaudhari007/Parth_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/PChaudhari007/Parth_DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PChaudhari007/Parth_DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/PChaudhari007/Parth_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PChaudhari007/Parth_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PChaudhari007/Parth_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Stack
